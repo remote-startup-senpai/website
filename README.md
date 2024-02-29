@@ -1,7 +1,8 @@
-# Remote Startup Senpai Official Website
+# Remote Startup Senpai <a href="https://remote-startup-senpai.com" target="_blank">Official Website</a>
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Jb3ZvY5n) [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
-
+<a href="https://www.instagram.com/remotestartupsenpai/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://discord.gg/Jb3ZvY5n" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://www.youtube.com/@remotestartupsenpai" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 
 ### Requirements
 
