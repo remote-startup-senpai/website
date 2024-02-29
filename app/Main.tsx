@@ -32,7 +32,7 @@ export default function Home({ posts }) {
             </a>
             <a
               target="_blank"
-              href="https://instagram.com/remotestartupsenpai"
+              href="https://www.youtube.com/@remotestartupsenpai"
               className="mb-2 flex justify-center items-center rounded px-1 mx-2.5 my-1 text-xs font-medium uppercase leading-normal text-white shadow-md transition duration-150 ease-in-out hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg"
               style={{ backgroundColor: "#cb4e44" }}
             >
