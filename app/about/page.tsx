@@ -37,9 +37,6 @@ export default function Page() {
         <AuthorLayout content={illustratorContent}>
           <MDXLayoutRenderer code={illustrator.body.code} />
         </AuthorLayout>
-        <AuthorLayout content={studioContent}>
-          <MDXLayoutRenderer code={studio.body.code} />
-        </AuthorLayout>
         <AuthorLayout content={assistingStudioContent}>
           <MDXLayoutRenderer code={assistingStudio.body.code} />
         </AuthorLayout>
